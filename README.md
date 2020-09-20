@@ -25,7 +25,7 @@ Add me on discord as **Solon#4472**.
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1Solon&show_icons=true&count_private=true&hide=stars">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Soloni&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Solon&layout=compact">
 
 ---
 ### Languages, Tools & Environments:
