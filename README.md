@@ -50,4 +50,4 @@ Add me on discord as **Solon#4472**.
 
 <!--
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=azurethi&repo=unix-clock&theme=great-gatsby)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=1Solon&repo=unix-clock&theme=great-gatsby)
